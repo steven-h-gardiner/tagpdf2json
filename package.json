@@ -1,0 +1,11 @@
+{
+    "name": "tagpdf2json",
+    "version": "0.0.1",
+    "dependencies": {
+	"eachline": "*",
+	"xmldom": "*",
+	"tmp": "*",
+	"jison": "0.4.13",
+	"nomnom": "*"
+    }
+}
